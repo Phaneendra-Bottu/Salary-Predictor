@@ -1,3 +1,5 @@
-matplotlib.pyplot
-sklearn
+numpy
+pandas
+matplotlib
+scikit-learn
 pickle
